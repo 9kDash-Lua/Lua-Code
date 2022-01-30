@@ -1,0 +1,25 @@
+--[[
+ a88888b.  .88888.  8888ba.88ba  8888ba.88ba   .d888888  888888ba  888888ba  .d88888b  
+d8'   `88 d8'   `8b 88  `8b  `8b 88  `8b  `8b d8'    88  88    `8b 88    `8b 88.    "' 
+88        88     88 88   88   88 88   88   88 88aaaaa88a 88     88 88     88 `Y88888b. 
+88        88     88 88   88   88 88   88   88 88     88  88     88 88     88       `8b 
+Y8.   .88 Y8.   .8P 88   88   88 88   88   88 88     88  88     88 88    .8P d8'   .8P 
+ Y88888P'  `8888P'  dP   dP   dP dP   dP   dP 88     88  dP     dP 8888888P   Y88888P  
+
+*Toggle: Say it again to stop or start.
+
+!Setup -- Bring the alts to you. [Image: https://ibb.co/zPkCxFx]
+!Warp -- Loops the bots to teleport to you, *toggle.
+!Chat -- Makes all the accounts say what you put.
+!Lowgfx -- Removes textures on everything. [Use this and DestroyCash to keep your pc healthy]
+!DetroyCash -- Deletes cash on the alts.
+!LoopDestroy -- Does the same thing as DestroyCash but every 30 seconds, *toggle.
+!Drop -- Drops 10,000 cash on every account, *toggle.
+!SwagCrash -- Loads swagmode server crasher.
+]]--
+
+
+getfenv().MainAccount = "9kDash" -- put ur username, IT NEEDS TO BE EXACT
+getfenv().ChatMsg = "Dash's Alt Control On Top, maybe."
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/9kDash-Lua/Lua-Code/main/Dash's%20Alt%20Control%20Source', true))()
