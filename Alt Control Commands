@@ -1,0 +1,37 @@
+*Toggle: Say it again to stop or start.
+--------------------COMMANDS--------------------
+!Setup_Alts -- Bring the alts to you. [Image: https://ibb.co/zPkCxFx]
+!Setup_All -- Same thing as setup alts but you do it too.
+!Bring_Alts -- Brings the alts to you, doesnt freeze them
+!Warp -- Loops the bots to teleport to you, *toggle.
+!Lowgfx -- Removes textures on everything. [Use this and DestroyCash to keep your pc healthy]
+!DetroyCash -- Deletes cash on the alts.
+!LoopDestroy -- Does the same thing as DestroyCash but every 30 seconds, *toggle.
+!Drop -- Drops 10,000 cash on every account, *toggle.
+!SwagCrash/!Crash -- Loads swagmode server crasher.
+!Fly -- You can say it on any of the accounts it, X to start or stop.
+!Freeze -- Freezes the alts in place.
+!Unfreeze -- Unfreezes the alts.
+!Forcereset_Alts -- Force resets the alts.
+!Forcereset_All -- Force resets all of the accounts.
+!Advert -- Says the advert message every 14 seconds, *toggle.
+!Base -- You can say it on any of the accounts, it teleports you to the admin base.
+!Tp Base_Table
+!Tp Admin_Cell
+!Tp Selling_1
+!Tp Selling_2
+!Tp Selling_3
+!Tp Selling_4
+!Tp Selling_5
+!Tp Bank
+!Tp UFO
+!Tp Club
+!Tp Basketball
+!Tp Subway
+!Tp School
+!Tp Selling_House
+!Wallet
+!Drop_Self
+!CashAura
+!Bring [alt name] -- Brings a single alt on command.
+!Buy DaHood Cash -- Copys the link to my selling discord server
