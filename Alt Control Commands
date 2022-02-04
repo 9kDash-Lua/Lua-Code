@@ -1,7 +1,7 @@
 *Toggle: Say it again to stop or start.
 --------------------COMMANDS--------------------
-!Setup_Alts -- Bring the alts to you. [Image: https://ibb.co/zPkCxFx]
-!Setup_All -- Same thing as setup alts but you do it too.
+!Setup_Alts -- Bring the alts to you. [Image: https://ibb.co/zPkCxFx] [USE UNFREEZE]
+!Setup_All -- Same thing as setup alts but you do it too. [USE UNFREEZE]
 !Bring_Alts -- Brings the alts to you, doesnt freeze them
 !Warp -- Loops the bots to teleport to you, *toggle.
 !Lowgfx -- Removes textures on everything. [Use this and DestroyCash to keep your pc healthy]
